@@ -1,0 +1,38 @@
+<annotation>
+	<folder>label</folder>
+	<filename>Cam02_0010 13-44-40.jpg</filename>
+	<path>/home/mfranke/SMART2/ROS-Bags/label/Cam02_0010 13-44-40.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1370</xmin>
+			<ymin>588</ymin>
+			<xmax>1770</xmax>
+			<ymax>1606</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1847</xmin>
+			<ymin>914</ymin>
+			<xmax>1936</xmax>
+			<ymax>1128</ymax>
+		</bndbox>
+	</object>
+</annotation>
