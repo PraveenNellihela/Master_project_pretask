@@ -42,7 +42,6 @@ def generate_text():
             for row in csv_reader:
                 line1 = row[1] + '/' + row[0] + " " + row[4] + "," + row[5] + "," + row[6] + "," + row[7] \
                         + "," + str(generate_class_id(row[3]))
-                print(line1)
                 txt.write(line1+"\n")
 
 
